@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Virtual_Scientist</string>
+
+    <!-- Unity related -->
+    <string name="game_view_content_description">Unity Game View</string>
+    <string name="unityplayer_for_flutter">UnityPlayer</string>
+
+    <!-- Loading / status messages -->
+    <string name="unity_loading">Unity is getting ready...</string>
+    <string name="unity_ready">Unity is ready!</string>
+    <string name="unity_error">Unity failed to load</string>
+    <string name="unity_default">Loading Unity...</string>
+</resources>
