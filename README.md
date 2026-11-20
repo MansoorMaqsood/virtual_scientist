@@ -1,16 +1,27 @@
-# virtual_scientist
+# Virtual Scientist: AR-Based Educational Science Experiment App
 
-A new Flutter project.
+Final year project, BS Software Engineering, University of Sialkot
+(supervisor: Miss Shimza Butt, team of 3, I was the project leader).
 
-## Getting Started
+An AR-based mobile app that provides interactive virtual experiments in
+Chemistry, Physics and Biology for Matric and Intermediate students,
+with guided and independent experiments for safe, accessible and
+cost-effective practical learning.
 
-This project is a starting point for a Flutter application.
+## Tech
+Flutter, Dart, Firebase, Unity
 
-A few resources to get you started if this is your first Flutter project:
+## My contribution
+Flutter/Dart mobile application (UI, app logic and Firebase integration).
+The Unity AR experiment module was developed by my teammates and is not
+included in this repository.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Note
+Firebase configuration and the Unity module are not included, so the
+project is shown for code review and cannot be built as is.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run it
+1. Install Flutter
+2. flutter pub get
+3. Add your own Firebase config (not included)
+4. flutter run
