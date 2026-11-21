@@ -9,7 +9,7 @@ with guided and independent experiments for safe, accessible and
 cost-effective practical learning.
 
 ## Tech
-Flutter, Dart, Firebase, Unity
+Flutter, Dart, Firebase, Unity (AR module by teammates)
 
 ## My contribution
 Flutter/Dart mobile application (UI, app logic and Firebase integration).
@@ -20,7 +20,7 @@ included in this repository.
 Firebase configuration and the Unity module are not included, so the
 project is shown for code review and cannot be built as is.
 
-## Run it
+## Setup (for reference)
 1. Install Flutter
 2. flutter pub get
 3. Add your own Firebase config (not included)
